@@ -1,3 +1,4 @@
 name: digzilla
 markdown: kramdown
+url: http://digzilla.github.io/surveymuncher/
 permalink: /surveymuncher/blog/:year/:month/:day/:title
