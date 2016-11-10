@@ -2,4 +2,4 @@ name: digzilla
 markdown: kramdown
 url: "digzilla.github.io"
 baseurl: "/surveymuncher"
-permalink: /surveymuncher/blog/:year/:month/:day/:title
+permalink: date
